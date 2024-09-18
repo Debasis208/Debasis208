@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.js advance
 - 💞️ I’m looking to collaborate with early startups
 - 📫 mail: debasismohanty209@gmail.com    mob: 9040631872
-- Skills I have: Ract.js, JavaScript, Tailwind, HTML, CSS
+- Skills I have: React.js, JavaScript, Tailwind, HTML, CSS
 
 <!---
 Debasis208/Debasis208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
